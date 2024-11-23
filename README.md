@@ -1,4 +1,4 @@
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
+# EX NO.5: Monitoring soil moisture value in Thing speak cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
